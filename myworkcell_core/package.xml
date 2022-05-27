@@ -58,6 +58,13 @@
   <depend>geometry_msgs</depend>
   <depend>tf2_ros</depend>
   <depend>tf2_geometry_msgs</depend>
+  <depend>moveit_ros_planning_interface</depend>
+  <depend>ur5_demo_descartes</depend>
+  <depend>descartes_trajectory</depend>
+  <depend>descartes_planner</depend>
+  <depend>descartes_utilities</depend>
+  <depend>eigen_conversions</depend>
+  <depend>trajectory_msgs</depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>

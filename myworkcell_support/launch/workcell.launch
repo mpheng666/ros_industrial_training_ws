@@ -7,5 +7,4 @@
         <param name="base_frame" value="world"/>
     </node>
 
-
 </launch>
